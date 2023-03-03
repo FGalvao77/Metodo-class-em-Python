@@ -1,1 +1,2 @@
-# Metodo-class-em-Python
+## Método `class` em Python
+---
